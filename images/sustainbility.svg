@@ -1,0 +1,72 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 65" width="65" height="65">
+	<title>Untitled design (2)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0.01 62.31h64.47v2.4h-64.47z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m22.56 0.24h36.53v18.56h-36.53z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0.01 5.91h18.25v35.99h-18.25z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m46.2 19.88h18.28v35.99h-18.28z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m0.01 18.8h64.47v39.75h-64.47z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #194592 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m0 62.6h64.5v2.1h-64.5z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m25 7.5l-2.1 0.1v-6l0.8-0.2c2.7-0.8 5.6-1.2 8.5-1.2 8 0 15.6 3 21.5 8.3l2-2 2.9 11.8-11.8-2.9 2.5-2.5c-4.7-4.2-10.7-6.4-17.1-6.4-2.3 0-4.7 0.3-7 0.9zm0-2.1q3.6-0.9 7.3-0.9c7.2 0 14 2.7 19.3 7.7l0.8 0.7-1.5 1.4 4.9 1.2-1.2-4.8-0.8 0.7-0.7-0.7c-5.6-5.4-13-8.3-20.8-8.3q-3.7 0-7.3 0.9z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp3)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m0 32.5c0-8 2.9-15.6 8.2-21.5l-1.9-2 11.8-2.9-3 11.8-2.4-2.5c-4.2 4.7-6.4 10.8-6.4 17.1 0 2.4 0.3 4.7 0.9 7v0.2l0.1 2.1h-5.9l-0.2-0.7c-0.8-2.8-1.2-5.7-1.2-8.6zm2.1 0q0 3.7 0.9 7.3h2.1q-0.9-3.6-0.9-7.3c0-7.2 2.7-14.1 7.7-19.3l0.7-0.8 1.4 1.4 1.2-4.8-4.8 1.2 0.7 0.7-0.7 0.8c-5.3 5.6-8.3 13-8.3 20.8z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp4)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m57.1 20h6l0.2 0.8c0.8 2.7 1.2 5.6 1.2 8.6 0 7.9-2.9 15.5-8.2 21.5l1.9 1.9-11.8 2.9 3-11.7 2.4 2.4c4.2-4.7 6.4-10.7 6.4-17 0-2.4-0.3-4.8-0.9-7l-0.1-0.3zm2.3 2.1q0.9 3.6 0.9 7.3c0 7.2-2.7 14.1-7.7 19.3l-0.7 0.8-1.4-1.4-1.2 4.8 4.8-1.2-0.7-0.8 0.7-0.7c5.3-5.6 8.3-13 8.3-20.8q0-3.7-0.9-7.3z"/>
+		</g>
+	</g>
+	<path id="Layer" class="s0" d="m21.8 39.8h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m13.5 39.8h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m17.7 39.8h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m17.7 43.9h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m13.5 43.9h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m21.8 43.9h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m17.7 48.1h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m21.8 48.1h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m13.5 48.1h2.1v2h-2.1z"/>
+	<path id="Layer" class="s0" d="m13.5 52.2h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m21.8 52.2h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m17.7 52.2h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m15.6 31.4h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m23.9 31.4h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m19.8 31.4h2v2.1h-2z"/>
+	<path id="Layer" class="s0" d="m28.1 31.4h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m23.9 27.3h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m28.1 27.3h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m19.8 27.3h2v2.1h-2z"/>
+	<path id="Layer" class="s0" d="m15.6 27.3h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m15.6 23.1h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m23.9 23.1h2.1v2.1h-2.1z"/>
+	<path id="Layer" class="s0" d="m19.8 23.1h2v2.1h-2z"/>
+	<path id="Layer" class="s0" d="m28.1 23.1h2.1v2.1h-2.1z"/>
+	<g id="Clip-Path" clip-path="url(#cp5)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m44.7 56.4h19.8v2.1h-64.5v-2.1h9.4v-20.8h2.1v-16.6h22.8v2h3.1c3.8 0 6.8 2.8 7.3 6.5 1.3-1.4 3.2-2.3 5.2-2.3h5.2v1c0 4.1-3.2 7.3-7.3 7.3h-3.1v4.3c1.3-1.4 3.2-2.2 5.2-2.2h5.2v1c0 4-3.2 7.3-7.3 7.3h-3.1zm-31.2-20.8h14.6v20.8h4.1v-35.3h-18.7zm20.8-8.5v4.3h3.1c2.1 0 3.9 0.8 5.2 2.2v-4.3h-3.1c-2 0-3.9-0.8-5.2-2.2zm0.1-4c0.5 2.4 2.6 4.1 5.1 4.1h3c-0.4-2.3-2.5-4.1-5.1-4.1zm5.1 14.5h3c-0.4-2.3-2.5-4.1-5-4.1h-3.1c0.5 2.4 2.6 4.1 5.1 4.1zm3.2 2.1h-3.2c-2 0-3.8-0.8-5.2-2.2v18.9h8.4zm2.1-8.4h3.1c2.5 0 4.6-1.8 5-4.1h-3c-2.5 0-4.6 1.8-5.1 4.1zm0 10.4h3.1c2.5 0 4.6-1.8 5-4.1h-3c-2.5 0-4.6 1.8-5.1 4.1zm-33.3 14.6h14.5v-18.7h-14.5z"/>
+		</g>
+	</g>
+</svg>
